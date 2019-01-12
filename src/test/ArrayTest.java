@@ -15,6 +15,7 @@ public class ArrayTest {
 			list.add(i);
 		}
 		System.out.println(list);
+		System.out.println("测试git提交");
 	}
 	
 	
